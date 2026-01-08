@@ -1,6 +1,6 @@
 {
-  "name": "Ghi chú To-Do của tôi",
-  "short_name": "To-Do",
+  "name": "Todo-List",
+  "short_name": "Todo-List",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "#ffffff",
